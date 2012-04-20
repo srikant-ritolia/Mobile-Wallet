@@ -1,0 +1,52 @@
+Title: Mobile Wallet
+
+Idea: 
+Everyone has a mobile phone and they are very good at using it. They are very good at typing message even by closing the eyes.So i came with an idea of Mobile Wallet. We spend daily a lot here and there. We are not able to properly analyse our expenditure,
+
+
+Mobile Wallet maintains your wallet. It maintains your money, cards(debit,credit and id cards) and recharge coupons.In money it maintains your expenses, dues(to give and to take) and balance.In cards it stores the card number in encrpyted form.So if you want to have access to debit and credit card number you need a specific password.You can remove any card anytime you want.In recharge it stores the coupon amount and its serial number in encrypted form. You can store as many recharge coupon as you want and recharge any specific coupon anytime directly by specifying the password.
+
+Implementation: 
+Money-> Deposit->Own
+		->Taken->saves friend name 
+	Withdrawl->Travelling
+		 ->Eating
+		->Laundry
+		->Stationary
+		->For Friend
+		->Others
+	Balance
+	Dues->To give
+	    ->To take
+	Mini Statement
+
+Cards-> Store->Debit Card
+	     ->Credit Card
+	     ->Id card
+	View->Debit Card
+	    ->Credit Card
+	    ->Id card		
+	Remove->Debit Card
+		->Credit Card
+		->Id card
+Recharge->Store
+	  Recharge	
+	
+
+Platform:
+Python For S60
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
